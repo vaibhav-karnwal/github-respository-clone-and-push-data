@@ -10,4 +10,7 @@
 * git add .
 * git status
 * git commit -m "Message of commiting"
-* git push
+* git config --replace-all user.email "email- id"
+* git config --replace-all user.name "github username"
+* git commit -m "Message of commiting"
+* git push -u origin master
