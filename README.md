@@ -15,4 +15,5 @@
 * git config --replace-all user.name "github username"
 * git commit -m "Message of commiting"
 * git push -u origin master
+* git pull "RESPOSITORY LINK"
 ```
