@@ -2,6 +2,7 @@
 
 ### Steps to clone and push data to github respositary
 
+```jsx harmony
 * open cmd 
 * path where we want to download and save github respositary
 * git clone "CLONE RESPOSITORY LINK"
@@ -14,3 +15,4 @@
 * git config --replace-all user.name "github username"
 * git commit -m "Message of commiting"
 * git push -u origin master
+```
